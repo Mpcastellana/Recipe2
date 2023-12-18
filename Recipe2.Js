@@ -1,5 +1,5 @@
 
 function backColor()
 {
-	body.backColor = rgb(255, 255, 0);
+	body.backgroundColor = rgb(255, 231, 0);
 }
